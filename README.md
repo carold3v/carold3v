@@ -16,9 +16,8 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
-  <p style="margin: 0;">HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência incrível com ele. Montando e desenvolvendo a cada custo.</p>
-</div>
-
+  <p style="margin: 0;">
+    
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img
     alt="CSS"
@@ -26,6 +25,16 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     width="30px"
     style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência incrível com ele. Montando e desenvolvendo a cada custo.</p>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
   <p style="margin: 0;">JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi como é a sintaxe, correção de erros e o ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar ainda mais.</p>
 </div>
