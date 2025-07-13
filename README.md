@@ -21,11 +21,11 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
 
 <div style="display: flex; align-items: center; margin-bottom: 15px;">
   <img
-    alt="CSS"
-    title="CSS"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="margin-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
   <p style="margin: 0;">• JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi como é a sintaxe, correção de erros e o ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar ainda mais.</p>
 </div>
