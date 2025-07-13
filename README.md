@@ -30,6 +30,17 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
   <p style="margin: 0;">• JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi como é a sintaxe, correção de erros e o ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar ainda mais.</p>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 15px;">
+  <img
+    alt="C"
+    title="C"
+    width="30px"
+    style="margin-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+  />
+  <p style="margin: 0;">• Aprendo mais sobre linguagem C, uma das linguagens mais antigas da programação. Como é uma linguagem mãe, C foi desenvolvido na década de 70. Ótimo para codar de uma em uma vez, compilando o código.</p>
+</div>
+
 ---
 
 ### Aprendendo sobre:
