@@ -38,7 +38,7 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     style="margin-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
   />
-  <p style="margin: 0;">• Aprendo mais sobre linguagem C, uma das linguagens mais antigas da programação. Como é uma linguagem mãe, C foi desenvolvido na década de 70. Ótimo para codar de uma em uma vez, compilando o código.</p>
+  <p style="margin: 0;">• Aprendo e desenvolvendo mais com linguagem C, uma das linguagens mais antigas da programação. Como é uma linguagem mãe, C foi desenvolvido na década de 70. Ótimo para codar de uma em uma vez, compilando o código. Faço tanto no terminal do VSCODE como a do terminal do meu Linux.</p>
 </div>
 
 ---
