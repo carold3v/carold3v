@@ -25,7 +25,7 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 
-HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência incrível com ele. Montando e desenvolvendo e cada custo.
+<p>HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência incrível com ele. Montando e desenvolvendo e cada custo.</p>
 
 <img 
     align="left" 
@@ -36,7 +36,7 @@ HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi mesmo como é a sintaxe, correção de erros e ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar mais ainda.
+<p>JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi mesmo como é a sintaxe, correção de erros e ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar mais ainda.</p>
 
 ---
 
@@ -48,10 +48,23 @@ JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde apren
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
+<p>Linux foi um divisor de águas, de tão bom que é. Usar o terminal para fins de prática, sendo a melhor escolha do que os sistemas operacionais Windows e Mac, desenvolve o Linux a criatividade e a segurança de seus dados. Além, de ser em código aberto (open source) é senão uma ótima escolha para desenvolvimento de códigos. Fácil e prático de programar.</p>
+
+<p>OBS: Distro que uso atualmente é o Ubuntu. Já usei o Mint, mas com o interesse genuíno em usar o Arch Linux no futuro. </p>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-Por ser uma das linguagens mais conhecidas, Python se demonstrou interessante para mim. Usarei o Python com a sua função de IA programada, útil para o meu app que está em desenvolvimento. Assim, com uma programação mais leve, desenvolvo melhor o meu código.
+<p>Por ser uma das linguagens mais conhecidas, Python se demonstrou interessante para mim. Usarei o Python com a sua função de IA programada, útil para o meu app que está em desenvolvimento. Assim, com uma programação mais leve, desenvolvo melhor o meu código.</p>
 
 <img 
     align="left" 
@@ -64,13 +77,5 @@ Por ser uma das linguagens mais conhecidas, Python se demonstrou interessante pa
 
 <p>Java ainda está sendo um começo. Não estou usando muito atualmente, apenas para testes.</p>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
 <br/>
 <br/>
