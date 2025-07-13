@@ -32,6 +32,11 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+---
+
+## Aprendendo sobre: 
+
 <img 
     align="left" 
     alt="Python" 
@@ -39,6 +44,22 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 <br/>
 <br/>
