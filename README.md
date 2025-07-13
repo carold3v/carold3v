@@ -1,4 +1,4 @@
-# CarolD3v - Carolina Andrade
+# 👩‍💻 CarolD3v - Carolina Andrade
 
 **`Desenvolvedora Back-End`**
 
