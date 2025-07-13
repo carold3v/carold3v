@@ -1,4 +1,4 @@
-# 👩‍💻 CarolD3v - Carolina Andrade
+# 👩🏾‍💻 CarolD3v - Carolina Andrade
 
 **`Desenvolvedora Back-End`**
 
@@ -55,12 +55,15 @@ Por ser uma das linguagens mais conhecidas, Python se demonstrou interessante pa
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<p>Java ainda está sendo um começo. Não estou usando muito atualmente, apenas para testes.</p>
+
 <img 
     align="left" 
     alt="Python" 
