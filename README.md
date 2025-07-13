@@ -24,6 +24,9 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
+HTML e CSS foi quando desenvolvi o meu primeiro site, onde tive uma experiência incrível com ele. Montando e desenvolvendo e cada custo.
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -33,9 +36,11 @@ Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atual
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde aprendi mesmo como é a sintaxe, correção de erros e ampliamento para o código. Sendo de função front-end e back-end, desta vez comecei a partir mais para o back-end, para acrescentar e praticar mais ainda.
+
 ---
 
-## Aprendendo sobre: 
+### Aprendendo sobre: 
 
 <img 
     align="left" 
