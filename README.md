@@ -50,6 +50,9 @@ JavaScript (ou JS), foi onde comecei mesmo a gostar de programação. Onde apren
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
+Por ser uma das linguagens mais conhecidas, Python se demonstrou interessante para mim. Usarei o Python com a sua função de IA programada, útil para o meu app que está em desenvolvimento. Assim, com uma programação mais leve, desenvolvo melhor o meu código.
+
 <img 
     align="left" 
     alt="Python" 
