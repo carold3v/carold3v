@@ -1,3 +1,5 @@
+![programming](./gig.gif)
+
 # 👩🏾‍💻 CarolD3v - Carolina Andrade
 
 **`Desenvolvedora FullStack partindo pra Back-End`**
