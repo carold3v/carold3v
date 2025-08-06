@@ -1,8 +1,8 @@
 ![programming](./gig.gif)
 
-# 👩🏾‍💻 CarolD3v - Carolina Dev
+# 👩🏾‍💻 Carolina Dev
 
-**`Desenvolvedora FullStack partindo pra Back-End`**
+**`Desenvolvedora FullStack`**
 
 Olá, tudo bem? Me chamo Carolina de Andrade Silva, mas me chame de Carol. Atualmente tenho 20 anos, moro no Rio Grande do Sul e comecei a minha jornada na tecnologia no Colégio Estadual Monteiro Lobato (Cimol) em Taquara-RS. Exponho o que eu aprendo no GitHub e no meu canal do YouTube "[coisas de carol](https://www.youtube.com/@coisaasdecarol)", onde aprendo sobre as linguagens, exercícios, e até Linux, onde descobri minha paixão.
 
